@@ -6,7 +6,7 @@ This is a solution to the [Coding bootcamp testimonials slider challenge on Fron
 
 ### Links
 
-- 
+
 - Live Site URL:(https://slider-frontend.netlify.app/)
 
 
@@ -23,7 +23,6 @@ This is a solution to the [Coding bootcamp testimonials slider challenge on Fron
 
 
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@peteradedokun7](https://www.twitter.com/peteradedokun7)
 - linkedin - [[@peteradedokun7](https://www.linkedin.com/in/peter-adedokun-111966231/)
